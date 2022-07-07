@@ -1,4 +1,4 @@
-#Mocking a Final Method
+# Mocking a Final Method
 
 The mocking of final methods is similar to static methods, except we need to use _PowerMockito.mock(class)_ in place of _mockStatic()_ method.
 
